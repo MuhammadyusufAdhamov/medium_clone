@@ -1,0 +1,15 @@
+[submodule "medium_api_gateway"]
+	path = medium_api_gateway
+	url = git@github.com:MuhammadyusufAdhamov/medium_api_gateway.git
+[submodule "medium_protos"]
+	path = medium_protos
+	url = git@github.com:MuhammadyusufAdhamov/medium_protos.git
+[submodule "medium_user_service"]
+	path = medium_user_service
+	url = git@github.com:MuhammadyusufAdhamov/medium_user_service.git
+[submodule "medium_notification_service"]
+	path = medium_notification_service
+	url = git@github.com:MuhammadyusufAdhamov/medium_notification_service.git
+[submodule "medium_post_service"]
+	path = medium_post_service
+	url = git@github.com:MuhammadyusufAdhamov/medium_post_service.git
